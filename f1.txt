@@ -3,3 +3,5 @@ f1 in master
 f1.1 in master
 
 f1.2 in master
+
+f1.1 in b1
